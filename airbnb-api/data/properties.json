@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "title": "House",
+    "location": "Lisbon, Portugal",
+    "price": "150",
+    "description": "a house in portugal"
+}, {  
+    "id": 2,  
+    "title": "Apartment",
+    "location": "Washington DC",
+    "price": "300",
+    "description": "apartment in DC"
+}, {
+    "id": 3,
+    "title": "Condo",
+    "location": "NYC",
+    "price": "500",
+    "description": "condo in NYC"
+}]
